@@ -33,10 +33,8 @@ function renderFakultetPopup() {
         div.appendChild(img);
         div.appendChild(h1);
         div.onclick = () => {
-            console.log(item.id)
             var kafs=kafedras.filter((it)=>it.id_fakultet===item.id);
             renderKafedraPopup(kafs,popup);
-            console.log(kafedras);
         }
         popup.appendChild(div);
     });
@@ -48,7 +46,7 @@ kafedraho.forEach((item) => {
     var h1 = document.createElement('h1');
     h1.innerHTML = item.name;
     var img = document.createElement('img');
-    img.src = "assets/images/" + item.rasm;
+    img.src = "assets/images/" + (item.rasm?item.rasm:"green.jpg");
     var div = document.createElement('div');
     div.setAttribute('class', 'item');
     div.setAttribute('id', item.id);
