@@ -1,10 +1,11 @@
 *{
     box-sizing:border-box;
+    background-color: rgb(166, 176, 182);
 }
 
 .popup {
-    background-color: aliceblue;
-    border: 1px solid #000;
+    background-color: rgb(101, 103, 105);
+    border: 2px solid #000;
     border-radius: 20px;
     position: absolute;
     left: 50px;
@@ -22,15 +23,27 @@
     height:250px;
     width: 250px;
     padding: 5px;
+    border-radius: 20px;
 }
 
 .item img{
     width:240px;
-    height:200px;
-
+    height:180px;
+    border-radius: 20px;
 }
 .item h1{
 padding: 0;
 text-align: center;
 font-size: 20px;
+font-weight: 700;
+color: #000;
+}
+
+.item:hover{
+    color: aqua;
+    background-color: darkgoldenrod;
+}
+
+.popup:hover{
+    background-color: rgb(38, 192, 141);
 }
