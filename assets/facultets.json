@@ -6,28 +6,28 @@
     },
     {
         "name":"Энергетикӣ",
-        "imgUrl":".jpg",
+        "imgUrl":"energetik.jpg",
         "id":1
     }, {
         "name":"Технологияҳои инноватсионӣ",
-        "imgUrl":"tik.jpg",
+        "imgUrl":"ti.jpg",
         "id":2
     }, {
         "name":"Сохтмон ва меъморӣ",
-        "imgUrl":"tik.jpg",
+        "imgUrl":"sokhtmon.jpg",
         "id":3
     }, {
         "name":"Нақлиёт",
-        "imgUrl":"tik.jpg",
+        "imgUrl":"naqliyot.jpg",
         "id":4
     }, {
         "name":"менеджмент ва коммуникатсияи нақлиётӣ",
-        "imgUrl":"tik.jpg",
+        "imgUrl":"menej-naq.jpg",
         "id":5
     },
     {
         "name":"Муҳандисӣ - техникии БНТУ-ТТУ",
-        "imgUrl":"tik.jpg",
+        "imgUrl":"bel.jpg",
         "id":6
     }
 ]
