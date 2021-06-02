@@ -19,19 +19,19 @@
     },
     {
         "name":"Технологияҳои иттилоотӣ ва ҳифзи маълумот",
-        "rasm":"",
+        "rasm":"hifzi_malumot.png",
         "id":3,
         "id_fakultet":0
     },
     {
         "name":"Математикаи олӣ",
-        "rasm":"",
+        "rasm":"vishi_mat.jpg",
         "id":4,
         "id_fakultet":0
     },
     {
         "name":"Фанҳои Ҷомеашиносӣ",
-        "rasm":"",
+        "rasm":"jomeashinosi.jpg",
         "id":5,
         "id_fakultet":0
     },
