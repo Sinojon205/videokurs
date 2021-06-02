@@ -1,6 +1,6 @@
 var http = new XMLHttpRequest();
 http.onreadystatechange=function(evt){
-    if (http.status===200){
+    if (http.readyState===4 && http.status===200){
         console.log(JSON.parse(http.responseText));
     }
 };
