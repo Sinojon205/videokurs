@@ -1,11 +1,11 @@
 *{
     box-sizing:border-box;
-    background-color: white;
+    background-color: rgb(166, 176, 182);
 }
 
 .popup {
-    background-color:white;
-    border: 1px solid rgb(182, 185, 185);
+    background-color: rgb(101, 103, 105);
+    border: 2px solid #000;
     border-radius: 20px;
     position: absolute;
     left: 50px;
@@ -19,7 +19,6 @@
     flex-wrap:wrap;
     padding: 20px;
     overflow-y: scroll;
-    opacity: 0.7;
 }
 .item{
     height:300px;
@@ -32,14 +31,14 @@
 .item img{
     width:240px;
     height:180px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .item h1{
 padding: 0;
 text-align: center;
 font-size: 20px;
 font-weight: 700;
-color: rgb(95, 86, 86);
+color: #000;
 height:70px;
 vertical-align:middle;
 background-color: transparent;
@@ -47,5 +46,9 @@ background-color: transparent;
 
 .item:hover{
     color: aqua;
-    background-color: rgb(226, 218, 197);
+    background-color: darkgoldenrod;
+}
+
+.popup:hover{
+    background-color: rgb(38, 192, 141);
 }
