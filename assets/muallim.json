@@ -1,0 +1,216 @@
+[
+    {
+        "id_kafedra": 0,
+        "name": "Набиев Сироҷиддин Астонович",
+        "rasm": "nabiev.jpg"
+        
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Ҷалолов Убайдулло Ҳабибулоевич",
+        "rasm": "dshalolov.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Раҷабова Аслия Саидовна",
+        "rasm": "radshabova.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Саидзода Парвиз Ҳамро",
+        "rasm": "saidzoda.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Назаров Акбар Шарифович",
+        "rasm": "nazarow.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Бадалова Мамлакат Абдулхайровна",
+        "rasm": "badalova.jpg"
+
+    },
+    {
+        "id_kafedra":0,
+        "name": "Ли Игорь Тхя Дюнович",
+        "rasm": "li.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Юнусов Низомиддин Исмоилович",
+        "rasm": "yunusov.jpg"
+
+    },{
+        "id_kafedra": 0,
+        "name": "Хоҷаев Рустам Давлатмуродович",
+        "rasm": "khojaev.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Умарализода Раҷаб Шамс",
+        "rasm": "umaraliev.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Ғаниева Мошариф Бозоровна",
+        "rasm": "ganieva.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Ғуломов Ғоибназар Раҳматуллоевич",
+        "rasm": "gulomov.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Бобобеков Қурбонмурод Мулломиракович",
+        "rasm": "bobobekov.jpg"
+
+    },{
+        "id_kafedra": 0,
+        "name": "Қосимов Абдунаби Абдурауфович",
+        "rasm": "qosimov.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Саидова Оҳистамо Саймаҳмудовна",
+        "rasm": "saidova.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Касимов Далер Эркинович",
+        "rasm": "qosimovdaler.jpg"
+
+    },
+    {
+        "id_kafedra": 0,
+        "name": "Каримов Абдулазиз Абдулхакимови",
+        "rasm": "karimov.jpg"
+
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Шеров Пир Нуралиевич",
+        "rasm": "sherow.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Яздонқулов Раҳматҷон Соҳибҷонович",
+        "rasm": "yasdonqulow.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Абдурасулов Далер Анварович",
+        "rasm": "abdurasulow.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Қаламов Азизмамад Қурбонмамадович",
+        "rasm": "qalamow.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Файзмамадова Давлатбегим Раҷабовна",
+        "rasm": "faismamadova.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Қайюмов Суҳроб Тухтабоевич",
+        "rasm": "qayumov.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Азизуллоев Фозил Раҳимуллоевич",
+        "rasm": "asisuloew.jpg"
+    },
+
+    {
+        "id_kafedra": 1,
+        "name": "Даминов Шамшод Рашидович",
+        "rasm": "daminov.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Беҳбудов Вафоҷон Тағоймуродович",
+        "rasm": "behbudov.jpg"
+    },
+    {
+        "id_kafedra": 1,
+        "name": "Раҳимова Нодира Тоҳировна",
+        "rasm": "nodira.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Ашуров Искандар Миянсарович",
+        "rasm": "ashurow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Равшанов Чоршанби Буронович",
+        "rasm": "ravshanow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Бозоров Шамсуддин Аломуддинович",
+        "rasm": ""
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+    {
+        "id_kafedra": 2,
+        "name": "Шарипов Нурулло Давлатбекович",
+        "rasm": "sharipow.jpg"
+    },
+
+
+
+]
