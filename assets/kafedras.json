@@ -1,229 +1,229 @@
 [
     {
         "name":"Системаҳои автоматонидашудаи коркарди маълумот ва идоракунӣ",
-        "rasm":"",
+        "rasm":"kaf-asu.jpg",
         "id":0,
         "id_fakultet":0
     },
     {
         "name":"Шабакаҳои алоқа ва тақсими иттилоот",
-        "rasm":"",
+        "rasm":"kaf-svyaz.jpg",
         "id":1,
         "id_fakultet":0
     },
     {
         "name":"Информатика ва техникаи ҳисоббарор",
-        "rasm":"",
+        "rasm":"kaf-infor.png",
         "id":2,
         "id_fakultet":0
     },
     {
         "name":"Технологияҳои иттилоотӣ ва ҳифзи маълумот",
-        "rasm":"hifzi_malumot.png",
+        "rasm":"kaf-hifzi-malumot.jpg",
         "id":3,
         "id_fakultet":0
     },
     {
         "name":"Математикаи олӣ",
-        "rasm":"vishi_mat.jpg",
+        "rasm":"kaf-vishi-mat.jpg",
         "id":4,
         "id_fakultet":0
     },
     {
         "name":"Фанҳои Ҷомеашиносӣ",
-        "rasm":"jomeashinosi.jpg",
+        "rasm":"kaf-jomeashinosi.jpg",
         "id":5,
         "id_fakultet":0
     },
     {
         "name":"Электротаъминкунӣ",
-        "rasm":"",
+        "rasm":"kaf-elektrotaminkni.jpg",
         "id":6,
         "id_fakultet":0
     },
     {
-        "name":"Ҳаракатдиҳандаҳои автоматикунони-дашудаи электрӣ ва мошинҳои электрӣ",
-        "rasm":"",
+        "name":"Ҳаракатдиҳандаҳои автоматикунонидашудаи электрӣ ва мошинҳои электрӣ",
+        "rasm":"kaf-hrakat-avto.jpg",
         "id":7,
         "id_fakultet":1
     },
     {
         "name":"Нерӯгоҳҳои электрикӣ",
-        "rasm":"",
+        "rasm":"kaf-nerugohoi-electriki.jpg",
         "id":8,
         "id_fakultet":1
     },
     {
         "name":"Асосҳои назариявии радио ва электротехника",
-        "rasm":"",
+        "rasm":"kaf-radiotekhnika.jpg",
         "id":9,
         "id_fakultet":1
     },
     {
         "name":"Техникаи гармо ва таҷҳизотҳои гармидиҳӣ",
-        "rasm":"",
+        "rasm":"kaf-tekhnikai-garmidihi.jpg",
         "id":10,
         "id_fakultet":1
     },
     {
         "name":"Физика",
-        "rasm":"",
+        "rasm":"kaf-fizika.jpg",
         "id":11,
         "id_fakultet":1
     },
     {
         "name":"Иқтисодиёт ва идора дар истеҳсолот",
-        "rasm":"",
+        "rasm":"kaf-ekanomika.jpg",
         "id":12,
         "id_fakultet":1
     },
     {
         "name":"Ҳимояи релеӣ ва автоматика",
-        "rasm":"",
+        "rasm":"kaf-himoyai-reali.jpg",
         "id":13,
         "id_fakultet":1
     },
     {
         "name":"Истифодабарии нақлиёти автомобилӣ",
-        "rasm":"",
+        "rasm":"kaf-istif-naqliyoti-avto.jpg",
         "id":14,
         "id_fakultet":2
     },
     {
         "name":"Таркиби ҳаракаткунандаи роҳи оҳан",
-        "rasm":"",
+        "rasm":"kaf-harak-rohi-ohan.png",
         "id":15,
         "id_fakultet":2
     },
     {
         "name":"Истифодабарии техникии нақлиёти ҳавоӣ",
-        "rasm":"",
+        "rasm":"kaf-istifodai-naqlioti-havoi.jpg",
         "id":16,
         "id_fakultet":2
     },
     {
         "name":"Ҷузъҳои мошин ва мошинҳои сохтмонию роҳсозӣ",
-        "rasm":"",
+        "rasm":"kaf-juzho-va-moshinhoi-rohsozi.jpg",
         "id":17,
         "id_fakultet":2
     },
     {
         "name":"Механикаи назариявӣ ва муқовимати мавод",
-        "rasm":"",
+        "rasm":"kaf-mekhanikai-nazariyavi.jpg",
         "id":18,
         "id_fakultet":2
     },
     {
         "name":"Технологияи коркарди нахҳои табиӣ",
-        "rasm":"",
+        "rasm":"kaf-tekh-nakhhoi-tabii.jpg",
         "id":19,
         "id_fakultet":3       
     },
     {
         "name":"Технологияи мошинсозӣ, дастгоҳҳо ва асбобҳои металлбурӣ",
-        "rasm":"",
+        "rasm":"kaf-moshinsozi.jpg",
         "id":20,
         "id_fakultet":3
     },
     {
         "name":"Бехатарии фаъолияти инсон ва экология",
-        "rasm":"",
+        "rasm":"kaf-bgd.jpg",
         "id":21,
         "id_fakultet":3 
     },
     {
         "name":"Масолеҳшиносӣ , мошинҳо ва  таҷҳизотҳои металлургӣ",
-        "rasm":"",
+        "rasm":"kaf-masolehshinosi.jpg",
         "id":22,
         "id_fakultet":3 
     },
     {
         "name":"Технологияи мошинҳо ва таҷҳизотхои истеҳсолоти полигрофӣ",
-        "rasm":"",
+        "rasm":"kaf-moshinhoi-poligrafiya.jpg",
         "id":23,
         "id_fakultet":3 
     },
     {
         "name":"Металлургия",
-        "rasm":"",
+        "rasm":"kaf-metalurgiya.jpg",
         "id":24,
         "id_fakultet":3 
     },
     {
         "name":"Технологияи истеҳсолоти химиявӣ",
-        "rasm":"",
+        "rasm":"kaf-tekh-isteh-khimiya.jpg",
         "id":25,
         "id_fakultet":3 
     },
     {
-        "name":"Менеҷменти истеҳсолӣ» ",
-        "rasm":"",
+        "name":"Менеҷменти истеҳсолӣ",
+        "rasm":"kaf-menejmenti-istehsoli.jpg",
         "id":26,
         "id_fakultet":3
     },
     {
         "name":"Химияи умумӣ ва ғайриорганикӣ",
-        "rasm":"",
+        "rasm":"kaf-khimiyai-gayriorganiki.jpg",
         "id":27,
         "id_fakultet":3 
     },
     {
         "name":"Ихтисосҳои равияи мошинсозӣ",
-        "rasm":"",
+        "rasm":"kaf-moshinsozii-ikhtisosi.jpg",
         "id":28,
         "id_fakultet":4 
     },
     {
         "name":"Ихтисосҳои равияи сохтмонӣ",
-        "rasm":"",
+        "rasm":"kaf-ikhtis-rav-sokhtmon.jpg",
         "id":29,
         "id_fakultet":4 
     },
     {
-        "name":"Ихтисосҳои равияи меъморӣ:",
-        "rasm":"",
+        "name":"Ихтисосҳои равияи меъморӣ",
+        "rasm":"kaf-ikhtis-rav-loihakashi.jpg",
         "id":30,
         "id_fakultet":4
     },
     {
         "name":"Ихтисосҳои равияи энергетикӣ",
-        "rasm":"",
+        "rasm":"kaf-ikhtis-rav-energetik.jpg",
         "id":31,
         "id_fakultet":4 
     },
     {
         "name":"Ихтисосҳои равияи нақлиёт",
-        "rasm":"",
+        "rasm":"kaf-ikhtis-rav-naqliyot.jpg",
         "id":32,
         "id_fakultet":4 
     },
     {
         "name":"Ташкили интиқол ва идора дар нақлиёт",
-        "rasm":"",
+        "rasm":"kaf-tash-intiq-naqliyot.jpg",
         "id":33,
         "id_fakultet":5
     },
     {
         "name":"Сохтмони роҳҳо, иншоот ва коммуникатсияҳои нақлиётӣ",
-        "rasm":"",
+        "rasm":"kaf-sokhtmoni-rohho.jpg",
         "id":34,
         "id_fakultet":5 
     },
     {
         "name":"Иқтисодиёт ва логистикаи нақлиётӣ",
-        "rasm":"",
+        "rasm":"kaf-iqtisod-logist-naqliyot.jpg",
         "id":35,
         "id_fakultet":5 
     },
     {
         "name":"Забонҳо",
-        "rasm":"",
+        "rasm":"kaf-zabonho.jpg",
         "id":36,
         "id_fakultet":5
     },
     {
         "name":"Тарбияи ҷисмонӣ",
-        "rasm":"",
+        "rasm":"kaf-tarbiyai-jismoni1.jpg",
         "id":37,
         "id_fakultet":5
     }
