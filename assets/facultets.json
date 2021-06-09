@@ -1,33 +1,37 @@
 [
-    {
-        "name":"Технологияҳои иттилоотӣ ва коммуникатсионӣ",
-        "imgUrl":"tik.jpg",
-        "id":0
-    },
-    {
-        "name":"Энергетикӣ",
-        "imgUrl":"energetik.jpg",
-        "id":1
-    }, {
-        "name":"Нақлиёт",
-        "imgUrl":"naqliyot.jpg",
-        "id":2
-    }, {
-        "name":"Технологияҳои инноватсионӣ",
-        "imgUrl":"ti.jpg",
-        "id":3
-    }, {
-        "name":"Муҳандисӣ - техникии БНТУ-ТТУ",
-        "imgUrl":"bel.jpg",
-        "id":4
-    }, {
-        "name":"менеджмент ва коммуникатсияи нақлиётӣ",
-        "imgUrl":"menej-naq.jpg",
-        "id":5
-    },
-    {
-        "name":"Сохтмон ва меъморӣ",
-        "imgUrl":"sokhtmon.jpg",
-        "id":6
-    }
+  {
+    "name": "Технологияҳои иттилоотӣ ва коммуникатсионӣ",
+    "imgUrl": "tik.jpg",
+    "id": 0
+  },
+  {
+    "name": "Энергетикӣ",
+    "imgUrl": "energetik.jpg",
+    "id": 1
+  },
+  {
+    "name": "Нақлиёт",
+    "imgUrl": "naqliyot.jpg",
+    "id": 2
+  },
+  {
+    "name": "Технологияҳои инноватсионӣ",
+    "imgUrl": "ti.jpg",
+    "id": 3
+  },
+  {
+    "name": "Муҳандисӣ - техникии БНТУ-ТТУ",
+    "imgUrl": "bel.jpg",
+    "id": 4
+  },
+  {
+    "name": "менеджмент ва коммуникатсияи нақлиётӣ",
+    "imgUrl": "menej-naq.jpg",
+    "id": 5
+  },
+  {
+    "name": "Сохтмон ва меъморӣ",
+    "imgUrl": "sokhtmon.jpg",
+    "id": 6
+  }
 ]
