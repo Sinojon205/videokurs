@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+body{
+    width: 100%;
+    height: 1198px;
+    border: 1px solid #222555;
+    background:whitesmoke;
+
+}
+.container{
+    width:100%;
+    height: 1200px;
+    border:1px solid green;
+    position: absolute;
+
+}
+.tab_fan{
+    width: 100%;
+    height: 1200px;
+    border: -1px solid green;
+    margin-left: 305px;
+    padding: 5px;
+}
+.tab_fan a{
+    text-decoration: none;
+    padding: 57px;
+    background: black;
+    color: white;
+    font-size: 2em;
+}
+button.fan{
+    background: #97b397;
+    width: 185px;
+    height: 72px;
+    font-size: 31px;
+    color: white;
+    cursor: pointer;
+}
+a.fan:hover{
+    background: white;
+    color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+}
+.blog_fan{
+    margin-top: -1085px;
+    margin-left: 129px;
+    width: 496px;
+    height: 141px;
+    border: 1px solid #121212;
+}
+
+.img {
+    width: 160px;
+    height: 140px;
+    border: 1px solid #97b397;
+    float: left;
+    margin-right: 21px;
+    margin-left: -120px;
+}
+.text{
+    font-size: 1.1em;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 4px;
+    position: absolute;
+    margin-left: 54px;
+    padding: 8px;
+
+}
+.blog_fan_1{
+    float: right;
+    margin-top: 46px;
+    margin-right:537px;
+
+    width: 496px;
+    height: 141px;
+    border: 1px solid #121212;
+}
+
+.blog_fan_2{
+   float: left;
+    margin-top: 46px;
+    width: 496px;
+    height: 141px;
+    border: 1px solid #121212;
+    margin-left: 129px;
+}
