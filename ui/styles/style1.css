@@ -1,76 +1,88 @@
 *{
-    margin: 0;
-    padding: 0;
+   box-sizing: border-box;
+   background: white;
 }
 
 .container{
-    margin: 0;
-    padding: 0;
-}
-
-.container1{
-    margin:20px;
-    padding: 0;
-    border: 1px solid rgb(167, 163, 163);
-    color: rgb(66, 66, 66);
-    background:whitesmoke;
-    font-size: 30px;
-    font-weight: 400;
-    border-radius: 20px;
-
-}
-.name{
-    display: inline-block;
-    margin: 0px;
-    padding: 30px;
-    width: 50%;
-    text-align: center;
-}
-.name1{
-    display: inline-block;
-    margin: 0px;
-    padding: 30px;
-    border-left: 1px solid rgb(167, 163, 163);
-    text-align: center;
-    width: 10%;
-}
-.container1:hover{
-    background: white;
-}
-
-.vid{
-    margin: 0;
-    padding: 0;
-}
-video{
-    width: 400px;
-    height: 300px;
-    margin: 20px;
-    padding: 0;
-    display: block;
-}
-
-.name2{
-    margin: 0;
+    position: absolute;
+    left: 40px;
+    top:100px;
+    right: 50px;
+    bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
     padding: 10px;
 }
 
-.name2 div{
-    display: inline-block;
-    float: left;
-    height: 50px;
+.menu{
+    display: flex;
+    width: 100%;
+    height: 75px;
+    top: 15px;
+    border-radius: 20px;
+    position: fixed;
+    z-index: 9999;
 }
+
+.menu-item{
+    width: 40%;
+    height: 70px;
+    border: 1px solid rgb(116, 114, 114);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    line-height: 70px;
+    background: rgb(240, 236, 236);
+    color: black;
+}
+
+.menu-item:first-child{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.menu-item:last-child{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.vid{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+.vid-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+video{
+    width: 280px;
+    height: 180px;
+}
+
 img{
-    margin: 20px;
-    padding: 0;
+
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    border-top:20px;
-    display: inline-block;
 }
 
 h3{
-    width: 300px;
-    margin-top: 10px;
+    padding: 0;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(95, 86, 86);
+    height: 70px;
+    vertical-align: middle;
+    background-color: transparent;
+    
 }
